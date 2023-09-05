@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(25,25,25);
+    color:white;
+    font-family: Arial;
+    text-align:center;
+}
+.buttonclick
+{
+background-color:transparent;
+border:3px;
+border-color:white;
+border-style:solid;
+height:120px;
+width:120px;
+margin-left:20px;
+border-radius:60px;
+cursor: pointer;
+margin-top:30px;
+}
+
+.imagestyle
+{
+height:60px;
+width:60px;
+}
+
+.resetbutton
+{
+margin-top:30px;
+height:40px;
+width:130px;
+font-size:20px;
+font-weight:lighter;
+border-radius:12px;
+border:0;
+}
+.cs-results
+{
+margin-top:30px;
+font-size:25px;
+}
+.displaymove
+{
+height:60px;
+width:60px;
+}
