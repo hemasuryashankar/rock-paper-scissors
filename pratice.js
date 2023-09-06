@@ -97,7 +97,7 @@ function paperFunction()
     }
     else if(computerMove==='scissors')
     {
-        resultMove='You Loose';
+        resultMove='You Loss';
         score.Losses++;   
     }
     else
